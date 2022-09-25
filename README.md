@@ -35,6 +35,7 @@
 
 - [K-means Cluster Algoritham using Python](https://github.com/SSahas/exercism-problem)
 
+- [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
 
 
 
