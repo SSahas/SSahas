@@ -27,8 +27,6 @@
 
 - [Image Classifier web app](https://github.com/SSahas/Image-Recognition)
 
-- [Neural Style Transfer with Tensorflow api](https://github.com/SSahas/Neural-style-Transfer-with-Tensorflow-api-) 
-
 - [Image Segmentation](https://github.com/SSahas/Image_Segmentation)
 
 - [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
