@@ -25,13 +25,16 @@
 
 -  [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
 
+- [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
+
+- [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
+
 - [Image Classifier web app](https://github.com/SSahas/Image-Recognition)
 
 - [Image Segmentation](https://github.com/SSahas/Image_Segmentation)
 
-- [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
 
-- [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
+
 
 
 
