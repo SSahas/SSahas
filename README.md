@@ -31,8 +31,6 @@
 
 - [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
 
-- [K-means Cluster Algoritham using Python](https://github.com/SSahas/exercism-problem)
-
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
 
 
