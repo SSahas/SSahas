@@ -23,7 +23,7 @@
 
 ## My project list
 
-- [Image cropping with computer visoin]
+- [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
 
 -  [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
 
