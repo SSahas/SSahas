@@ -23,6 +23,8 @@
 
 ## My project list
 
+- [Image cropping with computer visoin]
+
 -  [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
 
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
