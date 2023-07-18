@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on computer Vision and NLP
 - 🌱 I’m currently working on Machine Learning 
 - 📫 How to reach me: sriramsahas2002@gmail.com
+- [LinkedIn](www.linkedin.com/in/ssahas)
 - 🏫 I am doing Bachelers of Technology in Electronics and communication at IIITN
 - Mobile : 9398860943
 - he/his 
