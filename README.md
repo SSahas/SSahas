@@ -24,17 +24,16 @@
 ## My project list
 
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
-
--  [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
-
+  
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
+  
+- [Image hashtag and caption Generator](https://github.com/SSahas/Image-Caption-and-Hashtag-Generator)
 
 - [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
 
 - [Image Classifier web app](https://github.com/SSahas/Image-Recognition)
 
-
-- [Image hashtag and caption Generator](https://github.com/SSahas/Image-Caption-and-Hashtag-Generator)
+- [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
 
 
 
