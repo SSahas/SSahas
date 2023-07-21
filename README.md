@@ -19,6 +19,8 @@
 
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
   
+- [Inference api system for ml models](https://github.com/SSahas/tf_deploy)
+  
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
   
 - [Image hashtag and caption Generator](https://github.com/SSahas/Image-Caption-and-Hashtag-Generator)
