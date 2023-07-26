@@ -29,7 +29,7 @@
 
 - [Image Classifier web app](https://github.com/SSahas/Image-Recognition)
 
-- [Real Time Human Detection with YOLOV](https://github.com/SSahas/Real-Time-Human-detection)
+- [Real Time Human Detection with YOLO](https://github.com/SSahas/Real-Time-Human-detection)
 
 
 
