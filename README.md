@@ -13,8 +13,6 @@
 
 
 
-
-
 ## My project list
 
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
@@ -25,11 +23,8 @@
   
 - [Image hashtag and caption Generator](https://github.com/SSahas/Image-Caption-and-Hashtag-Generator)
 
-- [Predicting Disaster Tweets with NLP](https://github.com/SSahas/Disaster-Tweets-using-NLP)
 
-- [Image Classifier web app](https://github.com/SSahas/Image-Recognition)
 
-- [Real Time Human Detection with YOLO](https://github.com/SSahas/Real-Time-Human-detection)
 
 
 
