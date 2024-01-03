@@ -1,6 +1,6 @@
 ### Hi there, I am Sahas👋
 
-- 🔭 I’m currently working on computer Vision and NLP
+- 🔭 I have knowledge on computer Vision and NLP and Currently learning Generative AI. I am Open to work.
 
 - 📫 How to reach me: sriramsahas2002@gmail.com
 - LinkedIn : www.linkedin.com/in/ssahas
