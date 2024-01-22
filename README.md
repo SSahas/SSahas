@@ -16,11 +16,10 @@
 ## My project list
 
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
+  
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
 
-  
 - [Inference api system for ml models](https://github.com/SSahas/tf_deploy)
-  
   
 - [Image hashtag and caption Generator](https://github.com/SSahas/Image-Caption-and-Hashtag-Generator)
 
