@@ -1,6 +1,7 @@
 ### Hi there, I am Sahas👋
 
-- 🔭 I have knowledge on computer Vision and NLP and Currently learning Generative AI. I am Open to work.
+- 🔭 I am an ML enthusiast with a strong knowledge of mathematics behind machine learning and neural networks and actively looking for Internships or entry level jobs in AI. 
+
 
 - 📫 How to reach me: sriramsahas2002@gmail.com
 - LinkedIn : www.linkedin.com/in/ssahas
