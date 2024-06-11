@@ -15,6 +15,8 @@
 
 ## My project list
 
+- [Python code assistant](https://github.com/SSahas/python-code-assistant)
+
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
   
 - [Sentiment Classifier airline](https://github.com/SSahas/Sentiment_analysis_airline)
