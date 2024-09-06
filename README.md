@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: sriramsahas2002@gmail.com
 - LinkedIn : www.linkedin.com/in/ssahas
-- 🏫  Bachelers of Technology in Electronics and communication (2020- 2024) at Indian Institute of Information technology, Nagpur.
+- 🏫  Bachelers of Technology in Electronics and communication (2020- 2024) at Indian Institute of Information Technology, Nagpur.
 
 
 
