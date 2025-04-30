@@ -19,6 +19,8 @@
 
 - [Python code assistant](https://github.com/SSahas/python-code-assistant)
 
+- [Data analysis co-pilot](https://github.com/SSahas/Data-analysis-copilot)
+
 - [Rag web app](https://github.com/SSahas/RAG-System)
 
 - [Image cropping with computer visoin](https://github.com/SSahas/Image-cropping-with-Computer-vision)
