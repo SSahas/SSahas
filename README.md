@@ -15,7 +15,7 @@
 
 ## My project list
 
-- [Implementing GPT from scratch](https://github.com/SSahas/Implementing-LLM-From-Scratch)
+- [Building and Pretraining GPT from scratch](https://github.com/SSahas/Implementing-LLM-From-Scratch)
 
 - [Python code assistant](https://github.com/SSahas/python-code-assistant)
 
