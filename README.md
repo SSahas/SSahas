@@ -1,6 +1,6 @@
 ### Hi there, I am Sahas👋
 
-- 🔭 I am an ML enthusiast with a strong knowledge of mathematics behind machine learning and neural networks and actively looking for Internships or entry level jobs in AI. 
+- 🔭 I am an ML enthusiast with a strong knowledge of mathematics behind machine learning and neural networks , currently working as AI FDE at personaas.ai. 
 
 
 - 📫 How to reach me: sriramsahas2002@gmail.com
